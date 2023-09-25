@@ -1,0 +1,10 @@
+.container {
+  background-color: gray;
+}
+
+.title_bold {
+  font-family: montserrat-bold, "Times New Roman", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+}
